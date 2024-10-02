@@ -62,7 +62,7 @@ export default function TelaRegistro() {
 
         <div className="footer">
           <p> Ja possui conta?</p>
-          <a href=""> Faça Login</a>
+          <a href=""> Cadastre-se </a>
         </div>
       </form>
     </div>
